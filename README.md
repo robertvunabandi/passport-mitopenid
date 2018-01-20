@@ -14,7 +14,7 @@ $ npm install passport-mitopenid
 
 Before using `passport-mitopenid`, you must register an application with [MOIDC](https://oidc.mit.edu). If you have not already done so, a new project can be created via [MOIDC](https://oidc.mit.edu/about). Your application will be issued a client ID and client secret, which need to be provided to the strategy. You will also need to configure a redirect URI which matches the route in your application.
 
-**Note:** If you are not [MIT](http://web.mit.edu/) affiliated, you will not be able to use this module because you will not be able to log in on [MOIDC](https://oidc.mit.edu). This module is solely intended for applications developed within and for the MIT community.
+**NOTE:** If you are not [MIT](http://web.mit.edu/) affiliated, you will not be able to use this module because you will not be able to log in on [MOIDC](https://oidc.mit.edu). This module is solely intended for applications developed within and for the MIT community.
 
 ### Configure Strategy
 
