@@ -18,7 +18,7 @@ Before using `passport-mitopenid`, you must register an application with [MOIDC]
 
 ### Configure Strategy
 
-The MOIDC Strategy authenticates using a Client application from [MOIDC](https://oidc.mit.edu) and OAuth 2.0 tokens. The generated `clientID` and `clientSecret` are to be supplied in the options of the strategy. Additionally, the strategy requires a `verify` callback which receives the parameters `accessToken`, optional `refreshToken`, `profile`, and function `done`from passport. The `verify` callback **must** call `done` with either an error (i.e. `done(err)`) or with providing the user to complete authentication (i.e. `done(null, user)`). Ideally, this `user` comes from client's database (which ideally is found with the `id` supplied under `profile.id`). For more details, see the [passport documentation](http://www.passportjs.org/docs/configure/).
+The MOIDC Strategy authenticates using a Client application from [MOIDC](https://oidc.mit.edu) and OAuth 2.0 tokens. The generated `clientID` and `clientSecret` are to be supplied in the options of the strategy. Additionally, the strategy requires a `verify` callback which receives the parameters `accessToken`, optional `refreshToken`, `profile`, and function `done` from passport. The `verify` callback **must** call `done` with either an error (i.e. `done(err)`) or with providing the user to complete authentication (i.e. `done(null, user)`). Ideally, this `user` comes from client's database (which ideally is found with the `id` supplied under `profile.id`). For more details, see the [passport documentation](http://www.passportjs.org/docs/configure/).
 
 Here's an example:
 
