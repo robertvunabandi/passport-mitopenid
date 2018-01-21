@@ -1,6 +1,6 @@
 {
   "name": "passport-mitopenid",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Passport Strategy with the AuthorizationCode grant type of the OAuth 2.0 protocol.",
   "keywords": [
     "mit",
