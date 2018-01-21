@@ -1,5 +1,5 @@
 {
-  "name": "passport-mitopenidc",
+  "name": "passport-mitopenid",
   "version": "1.0.2",
   "description": "Passport Strategy with the AuthorizationCode grant type of the OAuth 2.0 protocol.",
   "main": "./lib",
