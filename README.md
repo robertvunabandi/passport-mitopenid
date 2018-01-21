@@ -57,7 +57,7 @@ app.get('/auth/mitopenid/callback',
 
 # Examples
 
-Developers using the [Express](http://expressjs.com/) can refer to [this example guide](https://github.com/robertvunabandi/mitopenid) to build their web applications.
+Developers using the [Express](http://expressjs.com/) can refer to [this example guide](https://github.com/robertvunabandi/guide-on-mitopenid) to build their web applications.
 
 # Contributing
 
