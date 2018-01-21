@@ -35,7 +35,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/robertvunabandi/passport-mitopenid"
+    "url": "git://github.com/robertvunabandi/passport-mitopenid.git"
   },
   "dependencies": {
     "passport-oauth2": "^1.4.0",
