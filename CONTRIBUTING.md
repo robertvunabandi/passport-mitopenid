@@ -26,3 +26,7 @@ The next guides show were this code even comes from, thanks to [Jared Hanson](ht
 - [passport](https://github.com/jaredhanson/passport)
 
 Understanding the codebases above (mainly the Google, Facebook, and Twitter ones) will tremendeously help understanding this codebase.
+
+## Test Cases
+
+Adding more test cases would be a plus! All other passport strategies are 100% tested! This one is not :(.
