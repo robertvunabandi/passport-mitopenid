@@ -61,13 +61,7 @@ Developers using the [Express](http://expressjs.com/) can refer to [this example
 
 # Contributing
 
-### Tests
-
-`this section is under development`
-
-### Coverage
-
-`this section is under development`
+See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 # Credits
 
